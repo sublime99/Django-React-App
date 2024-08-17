@@ -1,0 +1,12 @@
+.summary-container {
+    text-align: center;
+    margin: 20px;
+  }
+  
+  .summary-img {
+    width: 50%;
+    max-width: 250px;
+    height: auto;
+    margin: 20px 0;
+  }
+  
